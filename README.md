@@ -1,4 +1,4 @@
-### Hi there 👋
+/header.png
 
 <!--
 **bayu-baskara/bayu-baskara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
