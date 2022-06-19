@@ -1,4 +1,4 @@
-/header.png
+<img src="https://github.com/bayu-baskara/bayu-baskara/blob/main/header.png/>
 
 <!--
 **bayu-baskara/bayu-baskara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
